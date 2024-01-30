@@ -21,6 +21,18 @@ aside {
     margin-top: 25px;
 }
 
+.certyfikat-foto {
+    width: 50%;
+    margin: 10px;
+    margin-left: 44px;
+    display: flex;
+    justify-content: center;
+    border-style: groove;
+    border-color: #b5c9f3;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
 .header-secondary {
     color: #ffffff;
 }
@@ -53,6 +65,10 @@ aside {
     margin-left: 40px;
 }
 .soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+.certificates-block {
     margin-top: 44px;
     margin-left: 40px;
 }
